@@ -1,18 +1,18 @@
 # Yerik Kassym
-Senior Business Analyst | Digital Products & Enterprise Applications
+Senior Business Analyst | Integrations, APIs & Digital Platforms
 
-[City, Country] · [phone] · [email] · [linkedin.com/in/kassymyerik] · Remote
+[City, Country] · [phone] · [email] · linkedin.com/in/kassymyerik · Open to remote
 
 ---
 
 ## Summary
-Senior Business Analyst with 4+ years translating business needs into delivery-ready requirements for digital and enterprise applications, plus earlier engineering experience partnering closely with technical teams. Skilled at stakeholder alignment, Agile backlog clarity, UAT readiness, and connecting process/ops outcomes to measurable results. Seeking a remote Sr Business Analyst role collaborating with product, engineering, and platform partners across the full delivery lifecycle.
+Senior Business Analyst with 4+ years delivering requirements and technical analysis for airline digital platforms, integrations, and customer-facing services. Own the bridge from BRD to technical requirements, API documentation, endpoint validation, and pre-business testing. Hands-on with REST/SOAP, Postman collections, multi-system integrations (CDP, Amadeus, messaging providers), and channel implementations (help center, telephony, WhatsApp, chatbot). Partner with business and engineering on in-house builds and third-party platforms from discovery through go-live, including process workflows, schemas, and AI-assisted automation initiatives.
 
 ## Core Skills
-**Business analysis:** Requirements elicitation · User stories & acceptance criteria · Process mapping · Stakeholder management · Scope & change control · UAT  
-**Delivery collaboration:** Agile / Scrum · Cross-functional workshops · Backlog prioritization · Release readiness · KPI / success metrics  
-**Tools & domains:** Jira · Confluence · [MS Teams / Slack] · Business applications · Digital products · [SQL / BI — if applicable]  
-**Technical fluency:** Solution engineering background · Systems thinking · [Cloud / CI-CD / monitoring — only if true]
+**Business & requirements:** BRD completion & review · Technical requirements · Workflow / process analysis · Schemas & diagrams · Stakeholder enablement · UAT / pre-business testing  
+**Integrations & APIs:** REST · SOAP · API technical documentation · Postman · Endpoint testing · System integration requirements · CDP · Amadeus  
+**Channels & platforms:** Messaging & notifications · 15 Below · InfoVip · SendGrid · eMarses / CDP · Zendesk → Q19 · Help center · Telephony · WhatsApp · Chatbot · FFP / Grafty  
+**Delivery:** In-house development requirements · Implementation support · Integration ownership · Process automation / AI initiatives · Cross-functional collaboration with business & engineering
 
 ## Experience
 
@@ -21,37 +21,40 @@ Senior Business Analyst with 4+ years translating business needs into delivery-r
 **Senior Analyst, Digital Business** · Jun 2025 – Present  
 **Business Application Analyst** · Oct 2021 – Present  
 
-- Partner with business owners and IT to elicit, document, and prioritize requirements for digital and business-application initiatives supporting airline operations.
-- Translate stakeholder needs into user stories, acceptance criteria, process maps, and clear functional documentation for engineering delivery.
-- Facilitate cross-functional workshops to resolve scope, priority, and trade-offs across operations, product, and technology stakeholders.
-- Support Agile delivery end-to-end: backlog refinement, clarification of edge cases, UAT planning, defect triage, and go-live readiness.
-- Define and track [KPIs / adoption / process / service] metrics to validate business impact after release.
-- Identify automation and tooling opportunities that reduce manual effort in [named process]; frame benefits in business-case terms.
-- Contribute requirements input related to [reliability / access control / compliance / operational risk] where process and system design meet *(edit to match real work)*.
-- Mentor / guide junior analysts or SMEs on requirements quality and documentation standards *(keep only if true)*.
+**Requirements & delivery**
+- Review and complete BRDs with the business team; clarify scope, workflows, and acceptance expectations before technical design begins.
+- Produce technical requirements and implementation-ready documentation for in-house development and vendor/platform work.
+- Analyze end-to-end workflows, create schemas/diagrams, and help business stakeholders structure accurate BRDs.
+- Support system implementation from requirements through technical validation; run pre-business tests before handoff to UAT/business sign-off.
+
+**APIs, integrations & platforms**
+- Author API technical documentation and integration requirements for REST and SOAP services; maintain Postman collections for endpoint validation and analysis.
+- Own technical requirements and hands-on analysis for multi-system integrations, including CDP and Amadeus, ensuring customer and operational data flows correctly across platforms.
+- Delivered / supported FFP (query-system) work and Grafty-related platform capabilities involving extensive integrations.
+- Responsible for messaging channels and notifications: integration and channel implementation via providers such as 15 Below, InfoVip, SendGrid, and prior eMarses stack; currently driving CDP as the consolidated customer-data layer fed from surrounding systems.
+- Leading channel migration from Zendesk to Q19 (local provider)—help center, telephony, WhatsApp, chatbot, and related service channels.
+- Contributing to process automation initiatives using AI to reduce manual effort and improve operational workflows.
 
 ### Adikteev — Paris, France  
 **Solution Engineer** · 2020 – Jul 2023  
 
-- Bridged commercial and engineering stakeholders to scope solutions, clarify requirements, and align delivery plans with customer outcomes.
-- Translated business goals into actionable technical and functional next steps in a product/platform environment.
-- Built credibility with engineering partners through precise problem framing—foundational for BA work alongside platform and product teams.
+- Bridged commercial and engineering stakeholders to scope solutions, clarify requirements, and align technical delivery with customer outcomes.
+- Translated business goals into actionable functional/technical next steps in a product and platform environment—foundation for BA work on integrations and APIs.
 
 ### Nommi — Almaty, Kazakhstan  
 **Technical Lead Engineer** · Aug 2018 – Aug 2019  
 
-- Led technical delivery collaboration for [product/system]; coordinated implementation priorities with stakeholders and engineers.
-- Strengthened ability to evaluate feasibility, surface risks early, and communicate trade-offs between business intent and system constraints.
+- Led technical delivery collaboration; coordinated implementation priorities and communicated feasibility trade-offs between business intent and system constraints.
 
 ### Huawei Kazakhstan — Almaty, Kazakhstan  
 **Project Engineer** · Apr 2017 – Nov 2017  
 
-- Supported project execution and technical coordination on [project type]; practiced structured delivery under timeline and quality constraints.
+- Supported project execution and technical coordination under timeline and quality constraints.
 
 ## Education
 **[Degree], [Field]** — [University] · [Year]
 
-## Selected Impact (add 2–3 real examples)
-- Led requirements for [initiative]: reduced [manual effort / cycle time / defects] by [X%] or improved [metric] within [timeframe].
-- Delivered [system/process change] with [N] stakeholders; achieved on-time UAT sign-off / stable release.
-- Improved requirements quality by introducing [template / workshop approach / Definition of Ready], cutting rework on [project type].
+## Selected highlights (optional to keep)
+- Own BRD → technical requirements → API docs → Postman testing → pre-business validation for digital and integration initiatives.
+- Integration responsibility across CDP, Amadeus, messaging providers, and service channels (WhatsApp, chatbot, telephony, help center).
+- Platform migration leadership: Zendesk → Q19; messaging stack evolution toward unified CDP.
