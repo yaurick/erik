@@ -1,85 +1,171 @@
-# JWay Group — ODP Business Analyst application pack
+# JWay ODP apply form — field-by-field (live form)
 
-Apply: https://jway-group.breezy.hr/p/48b74222e7b8-part-time-business-analyst-optimizely-data-platform-odp/apply
+Form: https://jway-group.breezy.hr/p/48b74222e7b8-part-time-business-analyst-optimizely-data-platform-odp/apply  
+Resume to upload: `career/Yerik_Kassym_ODP_CDP_Resume.pdf`
 
-**Upload this CV:** `career/Yerik_Kassym_ODP_CDP_Resume.pdf`
+The form is **one page**. Do **not** use Indeed/LinkedIn quick-apply — upload the CDP PDF so they see the tailored CV.  
+Check the privacy box last, then Submit.
 
 ---
 
-## Form fields
+## 1. Upload Resume * (file)
 
-| Field | What to enter |
+**Enter:** `Yerik_Kassym_ODP_CDP_Resume.pdf`  
+Not the generic Sr BA PDF. This one leads with CDP / Emarsys / customer-data layer.
+
+---
+
+## 2. Full Name *
+
+**Enter:** `Yerik Kassym`
+
+---
+
+## 3. Email Address *
+
+**Enter:** `yerik.kassym@gmail.com`  
+Use Gmail, not the Air Astana work email.
+
+---
+
+## 4. Phone Number *
+
+**Enter:** your personal mobile with country code, e.g. `+7 …`  
+WhatsApp-reachable is best. Required; not on the CV.
+
+---
+
+## 5. Desired Salary * (USD + amount + frequency)
+
+Default is **US Dollar ($) + Yearly**. You must change the frequency.
+
+| Control | Set to |
 |---|---|
-| Full name | Yerik Kassym |
-| Email | yerik.kassym@gmail.com |
-| Phone | your real number (not on the CV — required) |
-| **Salary** | **55** — then make sure cover letter says **USD $55/hour** |
-| Cover letter | paste the letter below |
-| Resume | `Yerik_Kassym_ODP_CDP_Resume.pdf` |
+| Currency | US Dollar ($) — leave it |
+| Frequency dropdown | **Hourly** (options: Yearly, Monthly, Biweekly, Weekly, Daily, **Hourly**) |
+| Amount | **55** |
 
-If the salary box has a currency dropdown, choose **USD**.  
-If it looks like an **annual** salary field, enter **52000** (≈ 20 hrs/week × $50/hr × 52) and still write **$55/hour** in the cover letter.
+That is **$55/hour**. For 15–20 hrs/week ≈ **$3.6k–$4.8k/month**.
 
-**Do not** enter a Kazakhstan monthly salary in ₸.
+**Do not** leave it on Yearly and type `55` — that reads as $55/year.  
+**Do not** type a ₸ monthly salary.  
+If the dropdown will not switch, type **57200** and leave Yearly ($55 × 20 hrs × 52).
 
 ---
 
-## Cover letter (paste into the form)
+## 6. Cover Letter (optional)
 
-Subject / opening: Part-Time Business Analyst – Optimizely Data Platform (ODP)
+Still fill it. Keep it short because questions 7–11 repeat the same story.
 
-Hello,
+Paste:
 
-I am applying for the part-time Business Analyst – Optimizely Data Platform role (15–20 hours/week).
+```
+I am applying for the part-time ODP Business Analyst contract (15–20 hrs/week).
 
-I am a Senior Business Analyst with 4+ years translating business and marketing needs into technical requirements, data-flow maps, API documentation, and pre-go-live testing. At Air Astana I work on the customer-data stack: I previously supported Emarsys and I currently drive CDP as the consolidated customer-data layer fed from surrounding systems. That work includes schemas, integration requirements, REST/SOAP APIs (Postman), and lifecycle messaging channels (email, WhatsApp, notifications via Infobip, SendGrid, and 15 Below).
+I am a Senior BA (4+ years) working on CDP and customer-data integrations at Air Astana: previously Emarsys, currently driving a CDP as the consolidated customer-data layer, plus messaging channels (Infobip, SendGrid, 15 Below) and REST/SOAP APIs.
 
-I have not implemented Optimizely ODP specifically. I have done the same BA pattern this role describes: requirements for a CDP, customer-profile / data-flow mapping across CRM, CX, and marketing systems, functional specs, and validation before business sign-off. I ramp on new platforms by reading API and configuration docs, then producing implementation-ready requirements engineering can build from.
+I have not used Optimizely ODP yet. I do the same work this role needs — CDP requirements, data-flow / schema mapping, technical specs, and pre-go-live testing — and I ramp on new platforms from API and configuration docs.
 
-Availability: 15–20 hours/week, remote, async-first. Timezone is Asia/Almaty (UTC+5). I can overlap a short EU afternoon or US morning window for standups, with the rest of the work in evenings/weekends.
+Available 15–20 hrs/week from 18 Aug 2026. Timezone Asia/Almaty (UTC+5), with a short EU-afternoon / US-morning overlap for calls.
 
-Expected rate: **USD $55/hour** for 15–20 hours/week. Happy to discuss after a scope conversation.
+Rate: USD $55/hour.
 
-I would be glad to walk through how we moved from Emarsys to a CDP customer-data layer, or how we mapped channel + data requirements for messaging and CX migrations.
-
-Yerik Kassym  
-yerik.kassym@gmail.com · linkedin.com/in/kassymyerik
-
----
-
-## If they ask screening questions (use these)
-
-**Years as BA?**  
-4+ years as Business / Senior Business Analyst (Air Astana, Oct 2021–present). Prior Solution Engineer (Adikteev) and technical delivery roles.
-
-**Optimizely / ODP experience?**  
-No hands-on ODP yet. CDP experience is Emarsys and a current CDP customer-data-layer implementation (requirements, integrations, schemas, data flows). I can ramp on ODP documentation quickly.
-
-**Which CDPs?**  
-Emarsys; current enterprise CDP (customer-data consolidation from surrounding systems). Adjacent: messaging/CPaaS (Infobip, SendGrid, 15 Below).
-
-**SQL?**  
-I use schemas, data dictionaries, and API/payload analysis more than day-to-day SQL. I can read and write basic SELECT/JOIN validation queries; I am not positioning as a data engineer. *(Delete or soften if you actually write SQL often.)*
-
-**Hours / overlap?**  
-15–20 hrs/week. Almaty UTC+5. Can join 2–3 short calls/week in EU afternoon or US morning; delivery is async.
-
-**Start date?**  
-Immediately for evening/weekend hours; 1 week to align the weekly call slot.
-
-**Why you?**  
-I already do CDP + marketing-channel BA: requirements, customer-data flows, APIs, and UAT — which is this job without the ODP logo. I am not looking for full-time; this 15–20 hr contract is the format I can commit to.
+Yerik Kassym · yerik.kassym@gmail.com · linkedin.com/in/kassymyerik
+```
 
 ---
 
-## What not to say
-- Do not claim Optimizely, Segment, Tealium, or ODP certification.
-- Do not claim deep SQL, CLV modelling, or marketing-ops ownership unless you have it.
-- Do not mention you will miss standups; offer a defined overlap window instead.
-- Do not quote ₸ or a full-time salary.
+## 7. BA / CDP experience * (textarea)
+
+**Question:** *Tell us about your experience as a Business Analyst. Have you worked on Customer Data Platform (CDP), Marketing Analytics, CRM, or customer data integration projects? Please describe your role.*
+
+Paste:
+
+```
+I have 4+ years as a Business Analyst (Senior BA since 2024) at Air Astana, owning requirements from BRD through technical specs, schemas, API documentation, and pre-business testing.
+
+Yes — CDP and customer-data integration is my current work. I previously supported Emarsys, then moved to driving a CDP as the consolidated customer-data layer: mapping how CRM/CX, loyalty, and operational systems feed customer profiles into one platform. I write integration requirements, data-flow maps, and acceptance checks so marketing/CX and engineering share the same picture of the customer record.
+
+I also own messaging/notification channels used for lifecycle communications (email, WhatsApp, SMS-style notifications via Infobip, SendGrid, and 15 Below), which sits next to marketing analytics use cases: events, templates, triggers, and downstream activation.
+
+My role is the BA/integration owner — not the campaign operator: requirements, data contracts, APIs, and go-live validation.
+```
 
 ---
 
-## After you submit
-If they reply, first question to confirm: *“Are weekly meetings in US hours, and is 15–20 hrs a hard cap?”*  
-If they need 4 hours of US-morning meetings every weekday, decline — it collides with Air Astana.
+## 8. Which CDPs / MarTech? * (radio — pick one)
+
+Options: Optimizely Data Platform (ODP) · Salesforce CDP · Segment · Tealium · ActionIQ · Adobe Experience Platform · **Others**
+
+**Select: Others**
+
+Do not pick ODP. You have not implemented it. Emarsys is not on the list, so Others is the honest answer. The text in questions 7 and 6 already names Emarsys + current CDP.
+
+---
+
+## 9. Requirements → technical specs * (textarea)
+
+**Question:** *Describe a project where you gathered business requirements and translated them into technical specifications or data requirements. What was your contribution and the outcome?*
+
+Paste:
+
+```
+Example: consolidating customer data into a CDP and wiring marketing/CX channels onto it.
+
+Business wanted one customer-data layer instead of fragmented profiles across Emarsys, messaging providers, and operational systems. I ran BRD review with business/CX, then produced technical requirements: source systems, objects/fields to sync, API contracts (REST/SOAP), sequence/data-flow diagrams, and acceptance criteria.
+
+I documented endpoints in Postman, listed gaps (missing IDs, duplicate profile rules, channel triggers), and ran pre-business tests before sign-off.
+
+Outcome: engineering and vendors had implementation-ready specs; CDP became the feed for customer data, and channels (email, WhatsApp, notifications) had a clear data contract instead of ad-hoc mappings. I use the same pattern on the Zendesk → Q19 channel migration (current-state map, requirements, UAT checklist).
+```
+
+---
+
+## 10. Data mapping / SQL / APIs / events * (textarea)
+
+**Question:** *What is your experience with data mapping, customer data models, SQL, APIs, or event tracking? Please indicate your level of proficiency and provide examples.*
+
+Paste (honest — do not upgrade SQL unless you actually write it daily):
+
+```
+Data mapping / customer data models — strong (daily). I map source-to-target customer and operational data into the CDP (profiles, identifiers, channel attributes), produce schemas/data dictionaries, and flag identity and completeness issues before build.
+
+APIs — strong (daily). REST and SOAP: technical documentation, integration requirements, Postman collections, endpoint validation, auth/error cases.
+
+Event / channel tracking — solid. Messaging and CX events (sends, inbound WhatsApp, notification triggers, help-center/chatbot channels). I specify what must be captured and passed, not a full analytics-engineer tracking plan.
+
+SQL — working / not primary. I can read models and write basic SELECT/JOIN checks to validate a mapping. I do not position as a SQL analyst; validation is usually API payloads, Postman, and schema review.
+
+Example: CDP feed from surrounding systems — field mapping + API contract + Postman checks + pre-business test, not a warehouse SQL build.
+```
+
+If you *do* write SQL often at work, replace the SQL paragraph with one real example (table/join you used). Do not invent it.
+
+---
+
+## 11. Availability & start date * (short text)
+
+**Question:** *This is a part-time remote consulting engagement requiring approximately 15–20 hours per week for 3–6 months. Are you available for this commitment, and what is your earliest start date?*
+
+Paste:
+
+```
+Yes. I can commit 15–20 hours/week for 3–6 months (extendable). Earliest start: 18 August 2026.
+
+Timezone: Asia/Almaty (UTC+5). Delivery is evenings/weekends and async. I can join 2–3 short calls per week in EU afternoon or US morning (approx. 16:00–19:00 Almaty / 07:00–10:00 US Eastern, adjustable). I am not available for a full overlapping US workday.
+```
+
+---
+
+## 12. Data Privacy Notice * (checkbox)
+
+**Check the box.** Open “View Privacy Notice” if you want to skim it; it is required to submit.
+
+---
+
+## Submit
+
+Click **Submit Application**. You should get a Breezy confirmation email at gmail.
+
+If they reply, ask: *Are the 15–20 hours a hard cap, and how many live meetings per week (and in which timezone)?*  
+If they need a daily US-morning stand-up, it will collide with Air Astana — do not accept that version.
