@@ -1,0 +1,17 @@
+{
+  "pnr": "ABC123",
+  "pax_lastname": "KASSYM",
+  "flights": [
+    {
+      "carrier_code": "KC",
+      "flight_num": "854",
+      "relevant_flight": true,
+      "schedule_change": "",
+      "dept_city": "Almaty",
+      "dept_country": "Kazakhstan",
+      "arrv_city": "Astana",
+      "arrv_country": "Kazakhstan",
+      "journey_id": "J1"
+    }
+  ]
+}

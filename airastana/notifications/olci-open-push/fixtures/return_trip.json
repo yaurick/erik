@@ -1,0 +1,28 @@
+{
+  "pnr": "RTN789",
+  "pax_lastname": "NUR-SULTAN",
+  "flights": [
+    {
+      "carrier_code": "KC",
+      "flight_num": "854",
+      "relevant_flight": true,
+      "schedule_change": "",
+      "dept_city": "Almaty",
+      "dept_country": "Kazakhstan",
+      "arrv_city": "Astana",
+      "arrv_country": "Kazakhstan",
+      "journey_id": "J1"
+    },
+    {
+      "carrier_code": "KC",
+      "flight_num": "855",
+      "relevant_flight": false,
+      "schedule_change": "",
+      "dept_city": "Astana",
+      "dept_country": "Kazakhstan",
+      "arrv_city": "Almaty",
+      "arrv_country": "Kazakhstan",
+      "journey_id": "J2"
+    }
+  ]
+}

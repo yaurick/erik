@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>OLCI journey-logic push — before / after</title>
+  <style>
+    :root { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; }
+    body { margin: 24px; background: #f4f4f1; }
+    h1 { font-size: 22px; }
+    h2 { font-size: 16px; margin-bottom: 4px; }
+    .note { color: #555; margin-top: 0; font-size: 13px; }
+    .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .phone { background: #fff; border-radius: 16px; padding: 16px 18px; box-shadow: 0 8px 24px rgba(0,0,0,.08); }
+    .phone:before { display: block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; margin-bottom: 8px; color: #666; }
+    .before:before { content: "Original template"; color: #9b1c1c; }
+    .after:before { content: "Corrected journey logic"; color: #0f6b3f; }
+    .app { font-size: 12px; color: #666; margin: 0 0 4px; }
+    h3 { font-size: 15px; margin: 0 0 6px; }
+    .body { white-space: pre-wrap; font-size: 14px; line-height: 1.35; margin: 0; }
+    section { margin: 28px 0; }
+    code { font-size: 12px; }
+  </style>
+</head>
+<body>
+  <h1>Online check-in is now open — journey logic</h1>
+  <p>Rendered FCM <code>notification.title</code> / <code>notification.body</code> from the 15 Below template against PNR fixtures.</p>
+  
+            <section>
+              <h2>UAT: dynamic parameters sent as static text</h2>
+              <p class="note">Wrapping the whole body in <code>[encode as='json-string']</code> JSON-escapes tags instead of merging them. FCM/Infobip then deliver that literal string.</p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your [for-each flight][if flight.relevant_flight=True and flight.schedule_change&lt;&gt;X]&lt;CARRIER_CODE&gt;&lt;FLIGHT_NUM&gt;[/if][/for-each] [for-each journey][if flight.relevant_flight=True and flight.schedule_change&lt;&gt;X]&lt;JOURNEY_DEPT_CITY format=city_state&gt;-&lt;JOURNEY_ARRV_CITY format=city_state&gt;[/if][/for-each] flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&amp;pnrNumber=ABC123#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+            <section>
+              <h2>Direct ALA–NQZ</h2>
+              <p class="note">One relevant non-cancelled flight. Fixture: <code>direct_ala_nqz.json</code></p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC854 Almaty, Kazakhstan-Astana, Kazakhstan flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&amp;pnrNumber=ABC123#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+            <section>
+              <h2>Connecting ALA–IST–LHR</h2>
+              <p class="note">Journey O&amp;D is Almaty–London, not Almaty–Istanbul. Fixture: <code>connecting_ala_ist_lhr.json</code></p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC923 Almaty, Kazakhstan-London, United Kingdom flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC923 Almaty, Kazakhstan - London, United Kingdom flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=ALIYEVA&amp;pnrNumber=CON456#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+            <section>
+              <h2>Return trip, outbound check-in open</h2>
+              <p class="note">Inbound journey must not appear. Fixture: <code>return_trip.json</code></p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC854 Almaty, Kazakhstan-Astana, KazakhstanAstana, Kazakhstan-Almaty, Kazakhstan flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=NUR-SULTAN&amp;pnrNumber=RTN789#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+            <section>
+              <h2>Cancelled relevant flight (X)</h2>
+              <p class="note">Flight number and city pair omitted. Fixture: <code>cancelled_relevant.json</code></p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your   flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your  flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=OMAROV&amp;pnrNumber=XXX001#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+            <section>
+              <h2>Two relevant flights + special surname</h2>
+              <p class="note">Space-separated flight numbers; URL-encoded last name. Fixture: <code>two_relevant_flights.json</code></p>
+              <div class="pair">
+                
+      <article class="phone before">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC923KC501 Almaty, Kazakhstan-London, United Kingdom flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&amp;pnrNumber=%7B%7BPNR%7D%7D#/6</p>
+      </article>
+    
+                
+      <article class="phone after">
+        <p class="app">Air Astana</p>
+        <h3>Online check-in is now open</h3>
+        <p class="body">Check in online for your KC923 KC501 Almaty, Kazakhstan - London, United Kingdom flight now and save time at the airport.
+Open your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=O%27BRIEN&amp;pnrNumber=MLT222#/6</p>
+      </article>
+    
+              </div>
+            </section>
+            
+</body>
+</html>

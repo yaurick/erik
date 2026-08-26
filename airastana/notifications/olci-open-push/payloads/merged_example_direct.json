@@ -1,0 +1,36 @@
+{
+  "notification": {
+    "title": "Online check-in is now open",
+    "body": "Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.\nOpen your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&pnrNumber=ABC123#/6"
+  },
+  "data": {
+    "type": "OLCI_OPEN",
+    "pnr": "ABC123",
+    "surname": "KASSYM",
+    "title": "Online check-in is now open",
+    "body": "Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.\nOpen your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&pnrNumber=ABC123#/6",
+    "flightNumbers": "KC854 ",
+    "journey": "Almaty, Kazakhstan - Astana, Kazakhstan",
+    "deepLink": "https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&pnrNumber=ABC123#/6"
+  },
+  "android": {
+    "priority": "high"
+  },
+  "apns": {
+    "payload": {
+      "aps": {
+        "alert": {
+          "title": "Online check-in is now open",
+          "body": "Check in online for your KC854 Almaty, Kazakhstan - Astana, Kazakhstan flight now and save time at the airport.\nOpen your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&pnrNumber=ABC123#/6"
+        },
+        "sound": "default",
+        "mutable-content": 1,
+        "content-available": 1
+      },
+      "type": "OLCI_OPEN",
+      "pnr": "ABC123",
+      "surname": "KASSYM",
+      "deepLink": "https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=KASSYM&pnrNumber=ABC123#/6"
+    }
+  }
+}
