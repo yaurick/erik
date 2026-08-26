@@ -1,0 +1,17 @@
+{
+  "pnr": "XXX001",
+  "pax_lastname": "OMAROV",
+  "flights": [
+    {
+      "carrier_code": "KC",
+      "flight_num": "210",
+      "relevant_flight": true,
+      "schedule_change": "X",
+      "dept_city": "Almaty",
+      "dept_country": "Kazakhstan",
+      "arrv_city": "Dubai",
+      "arrv_country": "United Arab Emirates",
+      "journey_id": "J1"
+    }
+  ]
+}

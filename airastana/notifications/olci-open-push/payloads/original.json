@@ -1,0 +1,24 @@
+<ENABLE_JOURNEY_LOGIC>
+{
+  "notification": {
+    "title": "[encode as='json-string']Online check-in is now open[/encode]",
+    "body": "[encode as='json-string']Check in online for your [for-each flight][if flight.relevant_flight=True and flight.schedule_change<>X]<CARRIER_CODE><FLIGHT_NUM>[/if][/for-each] [for-each journey][if flight.relevant_flight=True and flight.schedule_change<>X]<JOURNEY_DEPT_CITY format=city_state>-<JOURNEY_ARRV_CITY format=city_state>[/if][/for-each] flight now and save time at the airport.\nOpen your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&pnrNumber=%7B%7BPNR%7D%7D#/6[/encode]"
+  },
+  "android": {
+    "priority": "high"
+  },
+  "apns": {
+    "payload": {
+      "aps": {
+        "alert": {
+          "title": "[encode as='json-string']Online check-in is now open[/encode]",
+          "body": "[encode as='json-string']Check in online for your [for-each flight][if flight.relevant_flight=True and flight.schedule_change<>X]<CARRIER_CODE><FLIGHT_NUM>[/if][/for-each] [for-each journey][if flight.relevant_flight=True and flight.schedule_change<>X]<JOURNEY_DEPT_CITY format=city_state>-<JOURNEY_ARRV_CITY format=city_state>[/if][/for-each] flight now and save time at the airport.\nOpen your booking: https://app-ds-website-uat-we.azurewebsites.net/global-en/mmb/booking-details?surname=%7B%7BPAX_LASTNAME%7D%7D&pnrNumber=%7B%7BPNR%7D%7D#/6[/encode]"
+        },
+        "sound": "default",
+        "mutable-content": 1,
+        "content-available": 1
+      }
+    }
+  }
+}
+</ENABLE_JOURNEY_LOGIC>
