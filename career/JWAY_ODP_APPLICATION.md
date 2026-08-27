@@ -66,7 +66,7 @@ I am a Senior BA (4+ years) working on CDP and customer-data integrations at Air
 
 I have not used Optimizely ODP yet. I do the same work this role needs — CDP requirements, data-flow / schema mapping, technical specs, and pre-go-live testing — and I ramp on new platforms from API and configuration docs.
 
-Available 15–20 hrs/week from 18 Aug 2026. Timezone Asia/Almaty (UTC+5), with a short EU-afternoon / US-morning overlap for calls.
+Available 15–20 hrs/week from 18 Aug 2026. Timezone Asia/Almaty (UTC+5). Live calls and focused work only after 17:30 Almaty (≈ 13:30 London / 08:30 US Eastern); delivery is evenings, weekends, and async.
 
 Rate: USD $55/hour.
 
@@ -152,7 +152,7 @@ Paste:
 ```
 Yes. I can commit 15–20 hours/week for 3–6 months (extendable). Earliest start: 18 August 2026.
 
-Timezone: Asia/Almaty (UTC+5). Delivery is evenings/weekends and async. I can join 2–3 short calls per week in EU afternoon or US morning (approx. 16:00–19:00 Almaty / 07:00–10:00 US Eastern, adjustable). I am not available for a full overlapping US workday.
+Timezone: Asia/Almaty (UTC+5). I am available only after 17:30 Almaty on weekdays (≈ 12:30 UTC / 13:30 London / 08:30 US Eastern), plus weekends. Delivery is async-first; I can join 2–3 short calls per week inside that window. I am not available before 17:30 Almaty or for a full overlapping US/EU workday.
 ```
 
 ---
@@ -163,9 +163,24 @@ Timezone: Asia/Almaty (UTC+5). Delivery is evenings/weekends and async. I can jo
 
 ---
 
+## Availability cheat sheet (Almaty = UTC+5)
+
+You said **after 17:30 Almaty only**. That maps to:
+
+| Almaty | London (BST) | US Eastern (EDT) |
+|---|---|---|
+| 17:30 | 13:30 | 08:30 |
+| 19:00 | 15:00 | 10:00 |
+| 21:00 | 17:00 | 12:00 |
+| 23:00 | 19:00 | 14:00 |
+
+Best call window to offer: **17:30–20:00 Almaty** (US morning 08:30–11:00 / EU early afternoon).
+
+---
+
 ## Submit
 
 Click **Submit Application**. You should get a Breezy confirmation email at gmail.
 
-If they reply, ask: *Are the 15–20 hours a hard cap, and how many live meetings per week (and in which timezone)?*  
-If they need a daily US-morning stand-up, it will collide with Air Astana — do not accept that version.
+If they reply, ask: *Are the 15–20 hours a hard cap, and can standups sit after 17:30 Almaty (08:30 US Eastern)?*  
+If they need daily meetings before 17:30 Almaty, decline — that collides with Air Astana.
