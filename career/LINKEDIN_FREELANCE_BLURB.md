@@ -12,9 +12,9 @@ Senior Business Analyst | APIs, Integrations & Digital Platforms | Project-based
 
 ## About (short version — ~1,300–1,800 chars)
 
-Senior Business Analyst specializing in integrations, APIs, and customer-facing digital platforms.
+Senior Business Analyst specializing in multi-system integrations, APIs, and customer-facing digital platforms (Amadeus, loyalty/FFP, messaging, CX, CDP among others—not a single-platform specialist).
 
-I help product and engineering teams turn messy business needs into clear technical requirements — from BRD review through API documentation, endpoint validation, and go-live readiness.
+I help product and engineering teams turn messy business needs into clear technical requirements — from BRD review through API documentation, endpoint validation, and go-live readiness across connected systems.
 
 **Available for project-based / part-time freelance only** (evenings & weekends, async-first). Not looking for full-time freelance or daily standups.
 

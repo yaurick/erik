@@ -3,7 +3,8 @@
 Filter: **Business Analyst / functional consultant work only**  
 Not: developer, engineer, GA4 tracker, data architect who codes, AMPscript/SSJS.
 
-Your BA edge: BRD → technical requirements · CDP/Emarsys · API docs & Postman validation · messaging channels · CX migration discovery · UAT.
+Your BA edge: BRD → technical requirements across **many systems** (Amadeus, FFP/Grafty, messaging, CX, CDP among others) · API docs & Postman · channel migrations · UAT.  
+Not CDP-only — CDP is one system in the landscape.
 
 Constraint: Air Astana FT + **after 17:30 Almaty only**.
 

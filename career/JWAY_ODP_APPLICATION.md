@@ -3,7 +3,9 @@
 Form: https://jway-group.breezy.hr/p/48b74222e7b8-part-time-business-analyst-optimizely-data-platform-odp/apply  
 Resume to upload: `career/Yerik_Kassym_ODP_CDP_Resume.pdf`
 
-The form is **one page**. Do **not** use Indeed/LinkedIn quick-apply — upload the CDP PDF so they see the tailored CV.  
+Positioning: you are a **multi-system BA** (Amadeus, FFP/Grafty, messaging, CX, APIs). CDP is **one** of those systems — not your only focus. Still relevant for ODP because you already do CDP-style requirements inside a wider landscape.
+
+The form is **one page**. Do **not** use Indeed/LinkedIn quick-apply.  
 Check the privacy box last, then Submit.
 
 ---
@@ -11,7 +13,7 @@ Check the privacy box last, then Submit.
 ## 1. Upload Resume * (file)
 
 **Enter:** `Yerik_Kassym_ODP_CDP_Resume.pdf`  
-Not the generic Sr BA PDF. This one leads with CDP / Emarsys / customer-data layer.
+Multi-system BA resume (Amadeus, messaging, CX, CDP among others).
 
 ---
 
@@ -62,11 +64,11 @@ Paste:
 ```
 I am applying for the part-time ODP Business Analyst contract (15–20 hrs/week).
 
-I am a Senior BA (4+ years) working on CDP and customer-data integrations at Air Astana: previously Emarsys, currently driving a CDP as the consolidated customer-data layer, plus messaging channels (Infobip, SendGrid, 15 Below) and REST/SOAP APIs.
+I am a Senior BA (4+ years) working across many digital systems at Air Astana—not a single platform. My landscape includes Amadeus integrations, FFP/Grafty, messaging providers (Infobip, SendGrid, 15 Below), CX channels (Zendesk → Q19: help center, telephony, WhatsApp, chatbot), and a CDP customer-data layer (previously Emarsys) as one of several connected systems. Day to day I own BRD → technical requirements → API docs (REST/SOAP, Postman) → pre-go-live testing across those systems.
 
-I have not used Optimizely ODP yet. I do the same work this role needs — CDP requirements, data-flow / schema mapping, technical specs, and pre-go-live testing — and I ramp on new platforms from API and configuration docs.
+I have not used Optimizely ODP yet. I already do the BA pattern this role needs—requirements, schemas, cross-system data-flow mapping, and UAT—including CDP work inside a broader integration landscape. I ramp on new platforms from API and configuration docs.
 
-Available 15–20 hrs/week from 18 Aug 2026. Timezone Asia/Almaty (UTC+5). Live calls and focused work only after 17:30 Almaty (≈ 13:30 London / 08:30 US Eastern); delivery is evenings, weekends, and async.
+Available 15–20 hrs/week. Timezone Asia/Almaty (UTC+5). Live calls and focused work only after 17:30 Almaty (≈ 13:30 London / 08:30 US Eastern); delivery is evenings, weekends, and async.
 
 Rate: USD $55/hour.
 
@@ -82,13 +84,11 @@ Yerik Kassym · yerik.kassym@gmail.com · linkedin.com/in/kassymyerik
 Paste:
 
 ```
-I have 4+ years as a Business Analyst (Senior BA since 2024) at Air Astana, owning requirements from BRD through technical specs, schemas, API documentation, and pre-business testing.
+I have 4+ years as a Business Analyst (Senior BA since 2024) at Air Astana. I work across a multi-system digital landscape—not CDP alone.
 
-Yes — CDP and customer-data integration is my current work. I previously supported Emarsys, then moved to driving a CDP as the consolidated customer-data layer: mapping how CRM/CX, loyalty, and operational systems feed customer profiles into one platform. I write integration requirements, data-flow maps, and acceptance checks so marketing/CX and engineering share the same picture of the customer record.
+My systems include Amadeus integrations, loyalty/FFP (Grafty), messaging and notifications (Infobip, SendGrid, 15 Below), CX channels (help center, telephony, WhatsApp, chatbot—Zendesk → Q19), and a CDP customer-data layer (previously Emarsys; now a consolidated CDP feed from surrounding systems). CDP is one important piece of that landscape: I write requirements for how CRM/CX, loyalty, and operational systems feed customer profiles, alongside API contracts and acceptance checks for the other platforms.
 
-I also own messaging/notification channels used for lifecycle communications (email, WhatsApp, SMS-style notifications via Infobip, SendGrid, and 15 Below), which sits next to marketing analytics use cases: events, templates, triggers, and downstream activation.
-
-My role is the BA/integration owner — not the campaign operator: requirements, data contracts, APIs, and go-live validation.
+Day to day I own BRD → technical specs → schemas/data-flow maps → REST/SOAP API documentation (Postman) → pre-business testing across those systems. I am the BA/integration owner—not a campaign operator and not a CDP-only specialist.
 ```
 
 ---
@@ -99,7 +99,7 @@ Options: Optimizely Data Platform (ODP) · Salesforce CDP · Segment · Tealium 
 
 **Select: Others**
 
-Do not pick ODP. You have not implemented it. Emarsys is not on the list, so Others is the honest answer. The text in questions 7 and 6 already names Emarsys + current CDP.
+Do not pick ODP. You have not implemented it. Emarsys / your current CDP are not on the list. Questions 6–7 already explain multi-system + CDP as one of many.
 
 ---
 
@@ -110,13 +110,13 @@ Do not pick ODP. You have not implemented it. Emarsys is not on the list, so Oth
 Paste:
 
 ```
-Example: consolidating customer data into a CDP and wiring marketing/CX channels onto it.
+Example: multi-system customer and channel integrations (CDP + messaging + CX), not a CDP-only project.
 
-Business wanted one customer-data layer instead of fragmented profiles across Emarsys, messaging providers, and operational systems. I ran BRD review with business/CX, then produced technical requirements: source systems, objects/fields to sync, API contracts (REST/SOAP), sequence/data-flow diagrams, and acceptance criteria.
+Business needed consistent customer and channel data across Emarsys/CDP, messaging providers (Infobip, SendGrid, 15 Below), loyalty/FFP, and CX tools. I ran BRD review with business/CX, then produced technical requirements spanning those systems: source/target objects, API contracts (REST/SOAP), sequence and data-flow diagrams, and acceptance criteria for each handoff.
 
-I documented endpoints in Postman, listed gaps (missing IDs, duplicate profile rules, channel triggers), and ran pre-business tests before sign-off.
+I documented endpoints in Postman, listed cross-system gaps (IDs, profile duplicates, channel triggers), and ran pre-business tests before sign-off.
 
-Outcome: engineering and vendors had implementation-ready specs; CDP became the feed for customer data, and channels (email, WhatsApp, notifications) had a clear data contract instead of ad-hoc mappings. I use the same pattern on the Zendesk → Q19 channel migration (current-state map, requirements, UAT checklist).
+Outcome: engineering and vendors had implementation-ready specs across the landscape; CDP became one feed among clear contracts for messaging and CX channels. I use the same multi-system BA pattern on Amadeus-related integrations and on the Zendesk → Q19 migration (current-state map, requirements, UAT checklist).
 ```
 
 ---
@@ -125,21 +125,21 @@ Outcome: engineering and vendors had implementation-ready specs; CDP became the 
 
 **Question:** *What is your experience with data mapping, customer data models, SQL, APIs, or event tracking? Please indicate your level of proficiency and provide examples.*
 
-Paste (honest — do not upgrade SQL unless you actually write it daily):
+Paste:
 
 ```
-Data mapping / customer data models — strong (daily). I map source-to-target customer and operational data into the CDP (profiles, identifiers, channel attributes), produce schemas/data dictionaries, and flag identity and completeness issues before build.
+Data mapping — strong (daily), across many systems. I map source-to-target flows between operational systems, Amadeus-related integrations, loyalty/FFP, messaging providers, CX platforms, and CDP profiles—not CDP-only models. I produce schemas/data dictionaries and flag identity and completeness issues before build.
 
-APIs — strong (daily). REST and SOAP: technical documentation, integration requirements, Postman collections, endpoint validation, auth/error cases.
+APIs — strong (daily). REST and SOAP across the landscape: technical documentation, integration requirements, Postman collections, endpoint validation, auth/error cases.
 
-Event / channel tracking — solid. Messaging and CX events (sends, inbound WhatsApp, notification triggers, help-center/chatbot channels). I specify what must be captured and passed, not a full analytics-engineer tracking plan.
+Event / channel tracking — solid. Messaging and CX events (sends, inbound WhatsApp, notification triggers, help-center/chatbot). I specify what must be captured and passed between systems.
 
-SQL — working / not primary. I can read models and write basic SELECT/JOIN checks to validate a mapping. I do not position as a SQL analyst; validation is usually API payloads, Postman, and schema review.
+SQL — working / not primary. I can read models and write basic SELECT/JOIN checks to validate a mapping. Validation is usually API payloads, Postman, and schema review.
 
-Example: CDP feed from surrounding systems — field mapping + API contract + Postman checks + pre-business test, not a warehouse SQL build.
+Example: end-to-end mapping for a channel or CDP feed that touches several source systems — field mapping + API contract + Postman checks + pre-business test.
 ```
 
-If you *do* write SQL often at work, replace the SQL paragraph with one real example (table/join you used). Do not invent it.
+If you *do* write SQL often at work, replace the SQL paragraph with one real example. Do not invent it.
 
 ---
 
@@ -165,8 +165,6 @@ Timezone: Asia/Almaty (UTC+5). I am available only after 17:30 Almaty on weekday
 
 ## Availability cheat sheet (Almaty = UTC+5)
 
-You said **after 17:30 Almaty only**. That maps to:
-
 | Almaty | London (BST) | US Eastern (EDT) |
 |---|---|---|
 | 17:30 | 13:30 | 08:30 |
@@ -174,13 +172,13 @@ You said **after 17:30 Almaty only**. That maps to:
 | 21:00 | 17:00 | 12:00 |
 | 23:00 | 19:00 | 14:00 |
 
-Best call window to offer: **17:30–20:00 Almaty** (US morning 08:30–11:00 / EU early afternoon).
+Best call window: **17:30–20:00 Almaty**.
 
 ---
 
 ## Submit
 
-Click **Submit Application**. You should get a Breezy confirmation email at gmail.
+Click **Submit Application**.
 
 If they reply, ask: *Are the 15–20 hours a hard cap, and can standups sit after 17:30 Almaty (08:30 US Eastern)?*  
 If they need daily meetings before 17:30 Almaty, decline — that collides with Air Astana.

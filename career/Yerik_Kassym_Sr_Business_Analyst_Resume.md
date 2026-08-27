@@ -1,18 +1,18 @@
 # Yerik Kassym
-Senior Business Analyst | Integrations, APIs & Digital Platforms
+Senior Business Analyst | Multi-System Integrations, APIs & Digital Platforms
 
 Almaty, Kazakhstan · yerik.kassym@gmail.com · linkedin.com/in/kassymyerik · Open to remote
 
 ---
 
 ## Summary
-Senior Business Analyst with 4+ years delivering requirements and technical analysis for airline digital platforms, integrations, and customer-facing services. Own the bridge from BRD to technical requirements, API documentation, endpoint validation, and pre-business testing. Hands-on with REST/SOAP, Postman collections, multi-system integrations (CDP, Amadeus, messaging providers), and channel implementations (help center, telephony, WhatsApp, chatbot). Partner with business and engineering on in-house builds and third-party platforms from discovery through go-live, including process workflows, schemas, and AI-assisted automation initiatives.
+Senior Business Analyst with 4+ years delivering requirements across a multi-system digital landscape—not a single platform. Own BRD → technical requirements → API documentation → pre-business testing for Amadeus, loyalty/FFP (Grafty), messaging providers, CX/helpdesk channels, and a CDP customer-data layer (among other connected systems). Hands-on with REST/SOAP, Postman, schemas, and end-to-end workflows. Partner with business and engineering on in-house builds and vendor platforms from discovery through go-live, including AI-assisted automation.
 
 ## Core Skills
 **Business & requirements:** BRD completion & review · Technical requirements · Workflow / process analysis · Schemas & diagrams · Stakeholder enablement · UAT / pre-business testing  
-**Integrations & APIs:** REST · SOAP · API technical documentation · Postman · Endpoint testing · System integration requirements · CDP · Amadeus  
-**Channels & platforms:** Messaging & notifications · 15 Below · Infobip · SendGrid · Emarsys / CDP · Zendesk → Q19 · Help center · Telephony · WhatsApp · Chatbot · FFP / Grafty  
-**Delivery:** In-house development requirements · Implementation support · Integration ownership · Process automation / AI initiatives · Cross-functional collaboration with business & engineering
+**Integrations & APIs:** REST · SOAP · API technical documentation · Postman · Endpoint testing · Multi-system integration requirements  
+**Systems & platforms:** Amadeus · FFP / Grafty · CDP (incl. Emarsys) · 15 Below · Infobip · SendGrid · Zendesk → Q19 · Help center · Telephony · WhatsApp · Chatbot  
+**Delivery:** In-house development requirements · Implementation support · Integration ownership · Process automation / AI · Business–engineering collaboration
 
 ## Experience
 
@@ -29,9 +29,9 @@ Senior Business Analyst with 4+ years delivering requirements and technical anal
 
 **APIs, integrations & platforms**
 - Author API technical documentation and integration requirements for REST and SOAP services; maintain Postman collections for endpoint validation and analysis.
-- Own technical requirements and hands-on analysis for multi-system integrations, including CDP and Amadeus, ensuring customer and operational data flows correctly across platforms.
+- Own technical requirements and analysis across many systems (Amadeus, FFP/Grafty, messaging, CX, CDP and others), ensuring customer and operational data flows correctly between platforms.
 - Delivered / supported FFP (query-system) work and Grafty-related platform capabilities involving extensive integrations.
-- Responsible for messaging channels and notifications: integration and channel implementation via providers such as 15 Below, Infobip, and SendGrid; previously Emarsys; currently driving CDP as the consolidated customer-data layer fed from surrounding systems.
+- Responsible for messaging channels and notifications via 15 Below, Infobip, and SendGrid; previously Emarsys; CDP is one customer-data layer in this wider multi-system landscape.
 - Leading channel migration from Zendesk to Q19—help center, telephony, WhatsApp, chatbot, and related service channels.
 - Contributing to process automation initiatives using AI to reduce manual effort and improve operational workflows.
 
