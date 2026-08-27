@@ -1,14 +1,14 @@
 # Freelance BA packages — Yerik Kassym
 
-**Senior Business Analyst · APIs, Integrations & Digital Platforms**  
-Project-based / part-time only · Evenings & weekends · Async-first  
+**Senior Business Analyst · Multi-System Integrations, APIs & Digital Platforms**  
+Project-based / part-time only · Evenings & weekends (after 17:30 Almaty) · Async-first  
 Almaty, Kazakhstan · Remote worldwide  
 yerik.kassym@gmail.com · linkedin.com/in/kassymyerik
 
 ---
 
 ## Who this is for
-Product owners, CTOs, and delivery leads who need clear requirements, API/integration documentation, or channel go-live support — **without a full-time BA hire**.
+Product owners, CTOs, and delivery leads who need a BA across **several connected systems**—requirements, API/integration documentation, channel go-live, or migration discovery—**without a full-time BA hire**. Experience spans Amadeus-class integrations, loyalty, messaging, CX, and CDP as one layer among many (not CDP-only).
 
 ## How I work
 - Fixed scope, fixed price, clear deliverables  
