@@ -1,84 +1,107 @@
-# Other BA vacancies (not JWay) — multi-system fit
+# Fresh BA vacancies after JWay decline
 
-Scan date: 2026-08-27  
-Profile: multi-system Sr BA (Amadeus, FFP/Grafty, messaging, CX, APIs, CDP among others)  
-Constraints: BA only · part-time/project preferred · after **17:30 Almaty** · no coding · avoid airline conflict where possible
-
----
-
-## Apply / contact first (best BA fit)
-
-### 1. AMS Experts — Technical Business Analyst (Remote)
-- **Why:** Multi-system BA — CRM/AMS selection, integrations, APIs/data flows, RFP, UAT (not CDP-only, not coding)
-- **Hours:** Part-time **or** full-time consulting  
-- **Pay:** $60–80/hr  
-- **Link:** https://jobalert.world/jobs/technical-business-analyst-remote-at-ams-experts-remote-42172  
-- **17:30 Almaty:** Ask before apply — only if evenings/async OK  
-- **Pitch:** multi-system integration BA + CX/CRM migration (Zendesk→Q19) + API docs/Postman
-
-### 2. Massive Rocket — Technical Business Analyst (8 months FTC, Remote)
-- **Why:** BA workshops, stories, APIs/integrations, customer journeys, CRM/MarTech ecosystem — agency BA, not developer
-- **Hours:** Likely full-time FTC (confirm); strong skill match including travel/airline desirable
-- **Note:** Airline/travel background is a plus here — check Air Astana conflict policy before applying  
-- **Link:** https://remoteleads.io/company/massive-rocket/technical-business-analyst-8-months-ftc-united-kingdom/  
-  Apply via company site from that page  
-- **17:30 Almaty:** Unlikely unless they accept evening EU overlap — ask
-
-### 3. Senior MarTech Business Analyst — TEKsystems / Hyatt (Remote contract)
-- **Why:** Multi-platform MarTech BA — CRM, loyalty, customer data, integrations, UAT, process maps ($60–68/hr)
-- **Hours:** Contract (typically full-ish); W2 US preferred / EST–CST states preferred  
-- **Link:** https://www.mysmartpros.com/tuition/job/senior-martech-business-analyst-4918250/  
-- **17:30 Almaty:** Hard — EST daytime; skip unless they allow evening-only  
-- **Conflict:** Hospitality/loyalty OK; not airline
-
-### 4. PMO Partners — Contract Technical BA (API / Postman / Jira)
-- **Why:** API YAML review, requirements, Postman validation, Confluence workflows — classic multi-system tech BA
-- **Hours:** ~6 months contract (confirm part-time)  
-- **Link:** https://searchremotely.com/job/technical-business-analyst-100-remote-contract/  
-- **17:30 Almaty:** Only if they accept ≤15–20 hrs + evening calls
+Scan: 2026-09-23  
+Profile: multi-system Sr BA · after 17:30 Almaty · part-time/project · BA only (no coding)  
+JWay ODP: declined — move on.
 
 ---
 
-## Marketplaces to find more BA vacancies (ongoing)
+## Apply now (best matches)
 
-These beat waiting for rare part-time postings:
+### 1. Viseven — Business Analyst (freelance) ★ top pick
+- **Why:** Classic BA: BRD → technical requirements → UAT · MarTech SaaS · integrations into client MarTech stacks · **up to 20 hrs/week** · 3 months (+ extension)
+- **Not coding** · not CDP-only
+- **Apply:** https://jobs.lever.co/viseven/bf07f75d-d3f1-4b53-a877-ccbcf2915fd6/apply  
+  Job page: https://jobs.lever.co/viseven/bf07f75d-d3f1-4b53-a877-ccbcf2915fd6
+- **Form asks:** CV · LinkedIn · **salary EUR brutto/hour** · English level
+- **Suggest rate:** **€45–50/hour** (≈ $50–55/hr)
+- **English:** Upper-Intermediate or Advanced
+- **Location risk:** Listed as Warszawa / remote; some boards say Poland. In cover note or after apply, confirm: *remote from Almaty (UTC+5), available after 17:30 Almaty / late EU afternoon*
+- **Pitch:** multi-system BA (messaging, CX, APIs, platforms) + BRD→tech reqs→UAT; MarTech ecosystem experience without claiming pharma
 
-| Platform | What to search | Link |
-|---|---|---|
-| **Upwork** | `business analyst` API integration · CRM migration · requirements · Zendesk · messaging | https://www.upwork.com/nx/search/jobs/?q=business%20analyst%20integration%20requirements&sort=recency |
-| **Upwork** | `technical business analyst` Postman OR API documentation | https://www.upwork.com/nx/search/jobs/?q=technical%20business%20analyst%20API%20documentation&sort=recency |
-| **Contra** | BA / requirements / CRM | https://contra.com |
-| **Outvise** | Business analyst / functional documentation / digital | https://www.outvise.com/ |
-| **FreelancerMap** | Business Analyst · System Analyst · CRM · Integration (no Engineer) | https://www.freelancermap.com |
-| **Malt** | Business Analyst · CRM · CX | https://www.malt.com |
-| **LinkedIn Jobs** | filters: Remote + Contract/Part-time + “Technical Business Analyst” / “Integration Business Analyst” / “CRM Business Analyst” | https://www.linkedin.com/jobs/ |
+### 2. PMO Partners — Technical Business Analyst (remote contract)
+- **Why:** API docs, Postman, Jira stories, Confluence workflows, gap analysis — multi-system tech BA
+- **Duration:** ~6 months · confirm if ≤20 hrs/week possible
+- **Links:**  
+  https://searchremotely.com/job/technical-business-analyst-100-remote-contract/  
+  https://jobright.ai/jobs/info/6a68b04568652d68b31499c5
+- **17:30 Almaty:** Ask for evening/async before investing time
 
-Proposal line: *Multi-system BA (requirements, APIs, CX/messaging integrations) · after 17:30 Almaty · async-first · no development.*
+### 3. Spectrum IT — Contract BA, EDI & Integrations (fully remote, UK)
+- **Why:** Integration BA — APIs, data mapping, requirements, testing · Outside IR35 · 6–9 months
+- **Risk:** Usually UK contractor / IR35 setup; may expect near-full-time hours
+- **Search:** “Contract Business Analyst EDI Integrations Spectrum IT Recruitment”
+- **17:30 Almaty:** Only if part-time / evening OK
+
+### 4. AMS Experts — Technical BA (remote, $60–80/hr)
+- CRM/AMS, integrations, RFP, UAT · PT or FT consulting  
+- https://jobalert.world/jobs/technical-business-analyst-remote-at-ams-experts-remote-42172  
+- Still worth one email asking evenings UTC+5
 
 ---
 
-## Skill match but skip (wrong hours / location / FT)
+## Skip / weak for you
 
-| Vacancy | Why skip |
+| Role | Why |
 |---|---|
-| Cloudforce Technical BA $50–60/hr | Must be **DMV (US)** for onsite — https://jobs.lever.co/go-cloudforce/15d44d54-1ca6-48f9-a9fc-4c0d7adeba35 |
-| Tech Holding Sr TPM/BA 20 hrs | **Pacific 9–5**, 3 days/week — https://builtin.com/job/technical-project-manager-business-analyst-contract/9120250 |
-| Insight Global Sr MarTech BA | Needs **CST** daytime |
-| 7N CDP/Emarsys Specialist | Full-time + **EU citizenship** |
-| JWay ODP BA | Already targeting (CDP-heavy; you are multi-system) |
-| Emarsys Implementation Consultant UK | Permanent full-time |
+| Launchpad Integrations BA | Mon–Fri **7–4 PST** |
+| Salesforce Data Cloud / Marketing Cloud Technical Consultant | Coding (AMPscript/SSJS) + US/Canada only |
+| sobes.tech SFMC BA | **EU location required** |
+| Signet Jewelers Technical BA | US employer / Salesforce Service Cloud FT-ish |
+| Turing / AI-training “BA” gigs | Annotation work, not real BA; often PST overlap |
+| JWay ODP | Declined |
 
 ---
 
-## What to open this week (vacancy hunt)
+## Where to find more this week (BA vacancies)
 
-1. **AMS Experts** — email/apply; ask “part-time evenings UTC+5 OK?”  
-2. **Massive Rocket** — only if Air Astana allows travel/MarTech agency side work  
-3. **Upwork** — create profile + 5 BA-only proposals (integration / CRM / API docs / Zendesk migration)  
-4. **Outvise + FreelancerMap** — register as Business Analyst  
-5. **LinkedIn Jobs** — save alerts:  
-   `Technical Business Analyst remote contract`  
-   `CRM Business Analyst remote contract`  
-   `Integration Business Analyst part-time`
+1. **Upwork** (highest volume for evening work)  
+   - Fixed-price only  
+   - Searches: `business analyst requirements` · `API documentation Postman` · `CRM migration business analyst` · `Zendesk requirements` · `system integration BA`  
+   - https://www.upwork.com/nx/search/jobs/?q=business%20analyst%20API%20integration&sort=recency
 
-There are very few other open **part-time** BA vacancies like JWay right now. The real vacancy pipeline for your hours is **AMS Experts (if flexible) + Upwork/Outvise/FreelancerMap BA contracts**.
+2. **Outvise** — register as Business Analyst  
+   https://www.outvise.com/
+
+3. **FreelancerMap** — Business Analyst / System Analyst / Integration (filter out Engineer)  
+   https://www.freelancermap.com
+
+4. **LinkedIn Jobs alerts**  
+   - `Business Analyst freelance remote`  
+   - `Technical Business Analyst contract remote`  
+   - `Integration Business Analyst part-time`
+
+5. **Viseven careers** — they hire BAs often; join talent pool if freelance closes  
+   https://jobs.lever.co/viseven
+
+---
+
+## Viseven apply — copy paste
+
+**Salary expectations (EUR brutto/hour):** `48`  
+(or `45` if you want more competitive)
+
+**English:** Advanced (or Upper-Intermediate)
+
+**Short note / LinkedIn message if you can add one:**
+
+```
+Senior Business Analyst (4+ years) available for this freelance engagement (up to 20 hrs/week).
+
+I work across a multi-system digital landscape (messaging, CX/helpdesk, loyalty, APIs, and platform integrations)—owning BRD → technical requirements → API documentation/Postman validation → pre-business/UAT testing. Strong fit for translating complex cross-service logic into clear technical requirements and supporting go-live.
+
+Based in Almaty (UTC+5). Available after 17:30 Almaty on weekdays (≈ late EU afternoon) plus weekends; async-first delivery. Rate expectation: €48/hour brutto.
+
+Happy to walk through a recent multi-system requirements → UAT example.
+```
+
+**Upload:** `career/Yerik_Kassym_Sr_Business_Analyst_Resume.pdf` (multi-system version)  
+or `career/Yerik_Kassym_ODP_CDP_Resume.pdf` if you want the part-time/contract header.
+
+---
+
+## Priority order this week
+1. Apply **Viseven** today (best open part-time BA match)  
+2. Message **AMS Experts** + **PMO Partners** about evening hours  
+3. Soften Upwork profile + send **5 BA proposals** (not coding jobs)  
+4. Register **Outvise** + **FreelancerMap**
